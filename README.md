@@ -6,7 +6,7 @@ A curated list of homewbrew as well as tools, tutorials, and source code example
 - [Games with Source Code](#Games with Source Code)
 
 ### Tutorials
-[Ohsat](https://www.ohsat.com/tutorial/) - A variety of SGDK tutorials including four prototype games.
+- [Ohsat](https://www.ohsat.com/tutorial/) - A variety of SGDK tutorials including four prototype games.
 
 ### Games with Source Code
 
