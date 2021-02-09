@@ -3,7 +3,7 @@ A curated list of homewbrew as well as tools, tutorials, and source code example
 
 ## Contents
 - [Tools](#Tools)
-- [Tutorials](#Tutorials)
+- [Tutorials and Reference](#Tutorials and Reference)
 - [Games with Source Code](#Games with Source Code)
 - [Source Code Snippets and Libraries](#Source Code Snippets and Libraries)
 
@@ -12,8 +12,12 @@ A curated list of homewbrew as well as tools, tutorials, and source code example
 - [MMLGUI](https://github.com/superctr/mmlgui) - Music Macro Language editor and compiler. Can be used with MDSDRV.
 - [MegaColorTweaker](https://github.com/diegzumillo/MegaColorTweaker) - Edit the palette of sprites and images from within a ROM. Uses the SGDK.
 
-### Tutorials
+### Tutorials and Reference
 - [Ohsat](https://www.ohsat.com/tutorial/) - A variety of SGDK tutorials including four prototype games.
+- [Plutiedev](https://plutiedev.com) - A ton of information about MegaDrive programming and architecture.
+- [Copetti](https://www.copetti.org/writings/consoles/mega-drive-genesis/) - Analysis of the Mega Drive architecture.
+- [Mega Cat Studios VDP Graphics Guide](https://megacatstudios.com/blogs/retro-development/sega-genesis-mega-drive-vdp-graphics-guide-v1-2a-03-14-17) - General overview of the Genesis / Mega Drive's Video Display Processor's capabilities and limitations.
+
 
 ### Games with Source Code
 
