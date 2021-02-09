@@ -1,11 +1,11 @@
-# Awesome Sega Genesis / Mega Drive
+# Awesome Sega Genesis / Mega Drive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of homewbrew as well as tools, tutorials, and source code examples for Sega Genesis / Mega Drive development.
 
 ## Contents
 - [Tools](#Tools)
-- [Tutorials and Reference](#Tutorials and Reference)
-- [Games with Source Code](#Games with Source Code)
-- [Source Code Snippets and Libraries](#Source Code Snippets and Libraries)
+- [Tutorials and Reference](#Tutorials-and-Reference)
+- [Games with Source Code](#Games-with-Source-Code)
+- [Source Code Snippets and Libraries](#Source-Code-Snippets-and-Libraries)
 
 ### Tools
 - [SGDK](https://github.com/Stephane-D/SGDK) - C language development kit for the Genesis / Mega Drive.
